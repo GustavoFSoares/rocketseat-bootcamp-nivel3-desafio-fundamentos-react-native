@@ -2,26 +2,26 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Camisa DBZ",
+      "image_url": "https://img.elo7.com.br/product/original/1BBE2AD/camisa-camiseta-blusa-goku-ultra-vs-jiren-dbz-super-camisa-dbz.jpg",
       "price": 50
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "YU GI OH - Mago Negro",
+      "image_url": "https://cdn.awsli.com.br/600x450/891/891732/produto/40439640/1291637dbc.jpg",
       "price": 60
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Angel Beats",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-DLwlcyJhDuypbdB0VV0JNYBVBAcT-aQljw&usqp=CAU",
       "price": 70
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "High School DXD",
+      "image_url": "https://http2.mlstatic.com/camisa-manga-longa-de-anime-rias-e-akeno-high-school-dxd-D_NQ_NP_726116-MLB31162101281_062019-F.jpg",
       "price": 80
     }
   ]
